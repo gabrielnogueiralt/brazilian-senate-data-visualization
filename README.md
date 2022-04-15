@@ -14,3 +14,7 @@ Interactive visualization of current Brazilian senators, using D3.js, HTML and C
 - CSS
 - Javascript
 - D3.js
+
+## Developers
+* [Gabriel Nogueira](https://github.com/gabrielnogueiralt)
+* [Matheus Alves Almeida](https://github.com/MatheusAlvesAlmeida)
